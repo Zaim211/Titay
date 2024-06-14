@@ -45,7 +45,7 @@ const SignIn = () => {
       <ScrollView>
         <View className="px-4 my-1 min-h-[90vh] justify-center">
           <Image
-            source={images.titay}
+            source={images.logo}
             className="w-16 h-16"
             resizeMode="contain"
           />
