@@ -3,6 +3,9 @@
 ## 🤖 Introduction
 Titay is a mobile application that allows users to upload, view, and interact with videos. The app offers a seamless user experience with features like video liking, saving, and more. Built using modern technologies, Titay aims to provide a smooth and engaging platform for video content.
 
+## 🤸 Quick Start
+Please scan the bar-code android / ios:
+
 ## ⚙️ Tech Stack
 - **Frontend:** React Native
 - **Backend:** Appwrite
