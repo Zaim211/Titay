@@ -6,6 +6,8 @@ Titay is a mobile application that allows users to upload, view, and interact wi
 ## 🤸 Quick Start
 Please Scan the QR code below (android && ios):
 
+![Android](https://github.com/Zaim211/Titay/assets/107432307/e4e56037-f4b6-4b48-bf03-234dafc40db8)
+
 ## ⚙️ Tech Stack
 - **Frontend:** React Native
 - **Backend:** Appwrite
