@@ -1,5 +1,9 @@
 # Titay App Mobile
 
+<img src="https://github.com/Zaim211/Titay/assets/107432307/a82df383-a207-41ef-943c-e5ea85d36049" alt="Screenshot 1" width="200" style="display:inline-block; margin-right: 20px;">
+<img src="https://github.com/Zaim211/Titay/assets/107432307/eaf96229-35f4-4642-b3a4-fd8fa667aca0" alt="Screenshot 2" width="200" style="display:inline-block; margin-right: 20px;">
+<img src="https://github.com/Zaim211/Titay/assets/107432307/18a2bffa-8a45-4cef-a321-aa66581c6b09" alt="Screenshot 3" width="200" style="display:inline-block;">
+
 ## 🤖 Introduction
 Titay is a mobile application that allows users to upload, view, and interact with videos. The app offers a seamless user experience with features like video liking, saving, and more. Built using modern technologies, Titay aims to provide a smooth and engaging platform for video content.
 
