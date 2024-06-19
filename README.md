@@ -63,7 +63,7 @@ Please Scan the QR code below (android && ios):
 
 4. Start the development server:
     ```sh
-    npm start
+     npx expo start -c
     ```
 
 ### Running on Expo
